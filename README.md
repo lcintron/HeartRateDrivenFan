@@ -7,12 +7,15 @@ Can be compiled and deployed to your ESP32 board via Arduino IDE or Visual Studi
 ## Dependencies
 Using ESP32 BLE library developed by nkolban (https://github.com/nkolban/ESP32_BLE_Arduino). Leveraged example developed by chegewara found in the same repo.
 
+## 3D Models
+3x .stl files are provided. 1x for holding the servo that controls the fan's power knob and 2x top covers with LED and button holes (1x large that covers both 120V outlets and 1x that covers just one of the outlets).
+
 ## License
 Published under MIT license.
 
 MIT License
 
-Copyright (c) 2018 Luis Cintron
+Copyright (c) 2021 Luis Cintron
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
