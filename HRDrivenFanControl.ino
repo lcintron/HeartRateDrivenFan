@@ -1,7 +1,5 @@
-/*
- * A BLE client example that is rich in capabilities.
- * There is a lot new capabilities implemented.
- * author unknown
+/* A BLE Heart Rate Monitor based blower fan
+ * driver and repeater.
  * Author: 1cintron
  * Baseline example by chegewara
 */
